@@ -1,0 +1,10 @@
+main:
+  - title: Home
+    url: /
+  
+  - title: Teaching
+    url: /teaching.html
+
+  - title: Links
+    url: /links.html
+
