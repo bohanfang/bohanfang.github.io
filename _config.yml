@@ -21,7 +21,7 @@
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "sunrise"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -50,7 +50,8 @@ title: "Bohan Fang's Homepage"
 name: "Bohan Fang"
 email: bohanfang@gmail.com
 description: "Bohan Fang's homepage. Not much stuff here."
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "/~b-fang" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
