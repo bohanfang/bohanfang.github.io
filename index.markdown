@@ -7,11 +7,15 @@ permalink: /
 
 # Bohan Fang 方博汉
 
+*Professor of Mathematics*  
+**Beijing International Center for Mathematical Research**  
+**Peking University**
+
 - Email: bohanfang AT gmail DOT com
 
 - Phone: +86 10 62744124
 
-- Office: 镜春园78407
+- Office: 镜春园78号院78407 (Jingchunyuan Courtyard 78, 78407)
 
 - Research Area: Mathematical physics, algebraic and symplectic geometry
 

@@ -5,7 +5,7 @@ title: Links
 permalink: /links.html
 ---
 
-## Some Events:
+## Some events:
 
 - [BICMR Symplectic Geometry and Mathematical Physics Seminar](https://bicmr.pku.edu.cn/content/lists/49.html)
 
@@ -14,4 +14,5 @@ permalink: /links.html
 - [Eastern Hemisphere Colloquium on Geometry and Physics](https://cgp.ibs.re.kr/activities/conferences/342)
 
 - [The Greater Bay Area Geometry and Mathematical Physics Seminar (Lambda)](https://lambda.sustech.edu.cn/)
+
 

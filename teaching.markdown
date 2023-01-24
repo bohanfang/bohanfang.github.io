@@ -7,5 +7,5 @@ permalink: /teaching.html
 
 ## Spring 2023 (current):
 
-I'm teaching Riemann Surfaces.
+I'm teaching *Riemann Surfaces*. If you are registered, you can find more information on [PKU Blackboard](https://course.pku.edu.cn).
 
