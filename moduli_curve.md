@@ -5,9 +5,9 @@ title: Topics in Modern Mathematical Physics II
 permalink: /teaching2025fall.html
 ---
 
-# Course on Moduli of Curves, Ribbon Graphs, and Witten's Conjecture
+## Course on Moduli of Curves, Ribbon Graphs, and Witten's Conjecture
 
-## General Description
+### General Description
 
 This  course provides a tour among theory of the moduli spaces of curves, matrix models and integrable systems. Later (hopefully) we will proceed to Chekov-Eynard-Orantin's topological recursion, an elegant theory at the interplay of these topics.
 
@@ -15,7 +15,7 @@ We will begin with the analytic construction of the Deligne-Mumford compactified
 
 From the theory of matrix models, if time permits, we will introduce Chekov-Eynard-Orantin's topological recursion (TR). TR is a powerful algorithm motivated by matrix models, providing solutions to many enumerative geometry problems and beyond.
 
-## Detailed Syllabus
+### Detailed Syllabus (tentative)
 
 I will try to keep the course accessible without assuming too much background knowledge. Some basic understanding of manifolds and Riemann surfaces should be enough. I will list more details about the Topological Recursion later in the course.
 
@@ -91,7 +91,7 @@ Key Definitions & Theorems:
 - Zvonkine, D. (2012). "An introduction to moduli spaces of curves and their intersection theory". In Handbook of Teichmüller Theory, Vol. III.
 
 
-#### Seminal research articles (The primary sources):
+#### Original research articles (The primary sources):
 
 - Witten, E. (1991). "Two-dimensional gravity and intersection theory on moduli space". Surveys in Differential Geometry.
 
