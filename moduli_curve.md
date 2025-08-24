@@ -1,3 +1,9 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: Topics in Modern Mathematical Physics II
+permalink: /teaching2025fall.html
+---
 
 # Course on Moduli of Curves, Ribbon Graphs, and Witten's Conjecture
 
