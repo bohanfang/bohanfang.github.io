@@ -5,6 +5,6 @@ title: Teaching
 permalink: /teaching.html
 ---
 
-## Spring 2024 (current):
+## Fall 2025 (current):
 
-I'm teaching *Math Aspects of String Thoery*. You can find more information on [the course homepage](http://scholar.pku.edu.cn/b-fang/classes/mathematical-aspects-string-theory).
+I'm teaching [*Topics in Modern Mathematical Physics II*](moduli_curve.md) (undergraduate course name: Topics in Modern Mathematical Physics).
