@@ -15,6 +15,9 @@ We will begin with the analytic construction of the Deligne-Mumford compactified
 
 From the theory of matrix models, if time permits, we will introduce Chekov-Eynard-Orantin's topological recursion (TR). TR is a powerful algorithm motivated by matrix models, providing solutions to many enumerative geometry problems and beyond.
 
+[Course progress](progress.md) 
+
+
 ### Detailed Syllabus (tentative)
 
 I will try to keep the course accessible without assuming too much background knowledge. Some basic understanding of manifolds and Riemann surfaces should be enough. I will list more details about the Topological Recursion later in the course.
