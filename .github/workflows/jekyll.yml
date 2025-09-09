@@ -6,7 +6,7 @@ name: Build and Deploy Jekyll Site
 on:
   push:
     branches:
-      - main # Or "master", depending on your repo's default branch
+      - master # Or "master", depending on your repo's default branch
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
