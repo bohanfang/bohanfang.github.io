@@ -11,7 +11,7 @@ permalink: /teaching2025fall.html
 
 This  course provides a tour among theory of the moduli spaces of curves, matrix models and integrable systems. Later (hopefully) we will proceed to Chekov-Eynard-Orantin's topological recursion, an elegant theory at the interplay of these topics.
 
-We will begin with the analytic construction of the Deligne-Mumford compactified moduli space $\mathcal M_{g,n}$​ from the perspective of Teichmüller theory. We will then develop the combinatorial theory of ribbon graphs, which provides a cellular decomposition of these spaces. These materials lead to a detailed exposition of Maxim Kontsevich's celebrated proof of Edward Witten's conjecture, which shows that a generating function for intersection numbers on $\bar{\mathcal M}_{g,n}$​ is a $\tau$-function for the KdV hierarchy, by identifying it with the partition function of a matrix model.
+We will begin with the analytic construction of the Deligne-Mumford compactified moduli space $\overline{\mathcal M}_{g,n}$​ from the perspective of Teichmüller theory. We will then develop the combinatorial theory of ribbon graphs, which provides a cellular decomposition of these spaces. These materials lead to a detailed exposition of Maxim Kontsevich's celebrated proof of Edward Witten's conjecture, which shows that a generating function for intersection numbers on $\overline{\mathcal M}_{g,n}$​ is a $\tau$-function for the KdV hierarchy, by identifying it with the partition function of a matrix model.
 
 From the theory of matrix models, if time permits, we will introduce Chekov-Eynard-Orantin's topological recursion (TR). TR is a powerful algorithm motivated by matrix models, providing solutions to many enumerative geometry problems and beyond.
 
@@ -29,11 +29,11 @@ Key Definitions & Theorems:
 
 - Teichmüller Space
 
-- Mapping Class Group, Nielsen-Thurston classification of mapping classes
-
 - Pair of pants decomposition    
 
 - Fenchel-Nielsen coordinates (length and twist parameters)
+
+- Mapping Class Group, Nielsen-Thurston classification of mapping classes
 
 - Nodal curve
 
@@ -58,7 +58,7 @@ Key Definitions & Theorems:
 
 Part III: Intersection Theory and Matrix Models
 
-This part introduces the intersection-theoretic problem that motivated Witten, and solves it using the combinatorial machinery and a surprising connection to physics. We will start with tautological classes on $\bar{\mathcal{M}}_{g,n}$ and define intersection numbers on $\bar{\mathcal M}_{g,n}$ and their generating functions.
+This part introduces the intersection-theoretic problem that motivated Witten, and solves it using the combinatorial machinery and a surprising connection to physics. We will start with tautological classes on $\overline{\mathcal{M}}_{g,n}$ and define intersection numbers on $\overline{\mathcal M}_{g,n}$ and their generating functions.
 
 Witten's Conjeture states that this generating function satisfies a series of partial differential equations, i.e. KdV hierarchy. Kontsevich's formula express this generating function in terms of ribbon graphs, which are also expressed by a matrix model. Kontsevich's proof eventually boils down to showing the integrable hierarchy for this matrix model.
 
@@ -89,6 +89,8 @@ Key Definitions & Theorems:
 - Farb, B., & Margalit, D. (2012). A Primer on Mapping Class Groups. Princeton University Press.
 
 - Zvonkine, D. (2012). "An introduction to moduli spaces of curves and their intersection theory". In Handbook of Teichmüller Theory, Vol. III.
+
+- Arbarello, E., Cornalba M., & Griffiths, P. A. (2011). Geometry of algebraic curves, vol 2. Springer.
 
 
 #### Original research articles (The primary sources):
