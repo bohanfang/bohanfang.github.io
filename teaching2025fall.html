@@ -9,7 +9,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Course progress - Bohan Fang’s Homepage</title>
+<!-- begin _includes/seo.html --><title>Topics in Modern Mathematical Physics II - Bohan Fang’s Homepage</title>
 <meta name="description" content="Bohan Fang’s homepage. Not much stuff here.">
 
 
@@ -20,7 +20,7 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Bohan Fang's Homepage">
-<meta property="og:title" content="Course progress">
+<meta property="og:title" content="Topics in Modern Mathematical Physics II">
 <meta property="og:url" content="/teaching2025fall.html">
 
 
@@ -84,7 +84,8 @@
 
 <!-- end custom head snippets -->
 
-  </head>
+  <script>MathJax={"tex":{"inlineMath":[["$","$"],["\\(","\\)"]],"displayMath":[["$$","$$"],["\\[","\\]"]]},"svg":{"fontCache":"global"}}</script><script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
 
   <body class="layout--single">
     <nav class="skip-links">
@@ -249,7 +250,7 @@
 
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Course progress">
+    <meta itemprop="headline" content="Topics in Modern Mathematical Physics II">
     
     
     
@@ -257,7 +258,7 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">Course progress
+          <h1 id="page-title" class="page__title" itemprop="headline">Topics in Modern Mathematical Physics II
 </h1>
           
 
@@ -267,11 +268,146 @@
 
       <section class="page__content" itemprop="text">
         
-        <p>This is a not very detailed record of what happened in each course meeting.</p>
+        <h2 id="course-on-moduli-of-curves-ribbon-graphs-and-wittens-conjecture">Course on Moduli of Curves, Ribbon Graphs, and Witten’s Conjecture</h2>
 
-<h2 id="sep-08">Sep 08</h2>
+<h3 id="general-description">General Description</h3>
 
-<p>We discussed the definition of Teichmuller space.</p>
+<p>This  course provides a tour among theory of the moduli spaces of curves, matrix models and integrable systems. Later (hopefully) we will proceed to Chekov-Eynard-Orantin’s topological recursion, an elegant theory at the interplay of these topics.</p>
+
+<p>We will begin with the analytic construction of the Deligne-Mumford compactified moduli space $\overline{\mathcal M}<em>{g,n}$​ from the perspective of Teichmüller theory. We will then develop the combinatorial theory of ribbon graphs, which provides a cellular decomposition of these spaces. These materials lead to a detailed exposition of Maxim Kontsevich’s celebrated proof of Edward Witten’s conjecture, which shows that a generating function for intersection numbers on $\overline{\mathcal M}</em>{g,n}$​ is a $\tau$-function for the KdV hierarchy, by identifying it with the partition function of a matrix model.</p>
+
+<p>From the theory of matrix models, if time permits, we will introduce Chekov-Eynard-Orantin’s topological recursion (TR). TR is a powerful algorithm motivated by matrix models, providing solutions to many enumerative geometry problems and beyond.</p>
+
+<p><a href="/teaching2025fall_progress.html">Course Progress</a></p>
+
+<h3 id="detailed-syllabus-tentative">Detailed Syllabus (tentative)</h3>
+
+<p>I will try to keep the course accessible without assuming too much background knowledge. Some basic understanding of manifolds and Riemann surfaces should be enough. I will list more details about the Topological Recursion later in the course.</p>
+
+<p>Part I: The Geometry of Moduli Spaces</p>
+
+<p>This first part of the course builds the geometric foundations. The primary goal is to construct the moduli space $\mathcal M_{g,n}$ and its compactification​ as a geometric object, using the language of hyperbolic geometry and complex analysis.</p>
+
+<p>Key Definitions &amp; Theorems:</p>
+
+<ul>
+  <li>
+    <p>Hyperbolic metric on a surface  </p>
+  </li>
+  <li>
+    <p>Teichmüller Space</p>
+  </li>
+  <li>
+    <p>Pair of pants decomposition   </p>
+  </li>
+  <li>
+    <p>Fenchel-Nielsen coordinates (length and twist parameters)</p>
+  </li>
+  <li>
+    <p>Mapping Class Group, Nielsen-Thurston classification of mapping classes</p>
+  </li>
+  <li>
+    <p>Nodal curve</p>
+  </li>
+  <li>
+    <p>Stability condition</p>
+  </li>
+  <li>
+    <p>Deligne-Mumford compactification     </p>
+  </li>
+  <li>
+    <p>Boundary strata and their recursive structure   </p>
+  </li>
+</ul>
+
+<p>Part II: The Combinatorics of Moduli Spaces</p>
+
+<p>This part of the course introduces the second pillar: the combinatorial description of $\mathcal M_{g,n}$​ via ribbon graphs. This will provide the essential tool for Kontsevich’s proof.</p>
+
+<p>Key Definitions &amp; Theorems:</p>
+
+<ul>
+  <li>
+    <p>Ribbon graph / Fat graph   </p>
+  </li>
+  <li>
+    <p>Geometric realization of a ribbon graph into a surface   </p>
+  </li>
+  <li>
+    <p>Cell decomposition of the moduli space indexed by ribbon graphs</p>
+  </li>
+</ul>
+
+<p>Part III: Intersection Theory and Matrix Models</p>
+
+<p>This part introduces the intersection-theoretic problem that motivated Witten, and solves it using the combinatorial machinery and a surprising connection to physics. We will start with tautological classes on $\overline{\mathcal{M}}<em>{g,n}$ and define intersection numbers on $\overline{\mathcal M}</em>{g,n}$ and their generating functions.</p>
+
+<p>Witten’s Conjeture states that this generating function satisfies a series of partial differential equations, i.e. KdV hierarchy. Kontsevich’s formula express this generating function in terms of ribbon graphs, which are also expressed by a matrix model. Kontsevich’s proof eventually boils down to showing the integrable hierarchy for this matrix model.</p>
+
+<p>Key Definitions &amp; Theorems:</p>
+
+<ul>
+  <li>
+    <p>Universal curve and tautological classes</p>
+  </li>
+  <li>
+    <p>Intersection numbers, generating function</p>
+  </li>
+  <li>
+    <p>KdV Hierarchy</p>
+  </li>
+  <li>
+    <p>Witten’s Conjecture</p>
+  </li>
+  <li>
+    <p>Hermitian matrix model</p>
+  </li>
+  <li>
+    <p>Feynman diagrams, propagators, vertices</p>
+  </li>
+  <li>
+    <p>Wick’s Theorem for Gaussian integrals</p>
+  </li>
+  <li>
+    <p>Kontsevich’s proof on Witten’s Conjecture</p>
+  </li>
+</ul>
+
+<h3 id="references">References:</h3>
+
+<h4 id="textbooks-and-survey-articles">Textbooks and survey articles:</h4>
+
+<ul>
+  <li>
+    <p>Harris, J., &amp; Morrison, I. (1998). Moduli of Curves. Springer.</p>
+  </li>
+  <li>
+    <p>Farb, B., &amp; Margalit, D. (2012). A Primer on Mapping Class Groups. Princeton University Press.</p>
+  </li>
+  <li>
+    <p>Zvonkine, D. (2012). “An introduction to moduli spaces of curves and their intersection theory”. In Handbook of Teichmüller Theory, Vol. III.</p>
+  </li>
+  <li>
+    <p>Arbarello, E., Cornalba M., &amp; Griffiths, P. A. (2011). Geometry of algebraic curves, vol 2. Springer.</p>
+  </li>
+</ul>
+
+<h4 id="original-research-articles-the-primary-sources">Original research articles (The primary sources):</h4>
+
+<ul>
+  <li>
+    <p>Witten, E. (1991). “Two-dimensional gravity and intersection theory on moduli space”. Surveys in Differential Geometry.</p>
+  </li>
+  <li>
+    <p>Kontsevich, M. (1992). “Intersection theory on the moduli space of curves and the matrix Airy function”. Communications in Mathematical Physics.</p>
+  </li>
+  <li>
+    <p>Deligne, P., &amp; Mumford, D. (1969). “The irreducibility of the space of curves of given genus”. Publications Mathématiques de l’IHÉS.</p>
+  </li>
+  <li>
+    <p>Penner, R. C. (1987). “The decorated Teichmüller space of punctured surfaces”. Communications in Mathematical Physics.</p>
+  </li>
+</ul>
 
         
       </section>
