@@ -5,6 +5,12 @@ title: Course progress
 permalink: /teaching2025fall_progress.html
 ---
 
+<style>
+  #main {
+    font-size: 85%; /* Adjust this percentage as you like */
+  }
+</style>
+
 This is a not very detailed record of what happened in each course meeting. There should be course recordings in [北大教学网](https://course.pku.edu.cn).
 
 ### Sep 08

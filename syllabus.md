@@ -5,6 +5,12 @@ title: Syllabus
 permalink: /teaching2025fall-syllabus.html
 ---
 
+<style>
+  #main {
+    font-size: 85%; /* Adjust this percentage as you like */
+  }
+</style>
+
 ### Course on Moduli of Curves, Ribbon Graphs, and Witten's Conjecture
 
 #### Detailed Syllabus (tentative)
