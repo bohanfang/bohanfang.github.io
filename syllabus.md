@@ -56,7 +56,7 @@ Key Definitions & Theorems:
 
 Part III: Intersection Theory and Matrix Models
 
-This part introduces the intersection-theoretic problem that motivated Witten, and solves it using the combinatorial machinery and a surprising connection to physics. We will start with tautological classes on $\overline{\mathcal{M}}_{g,n}$ and define intersection numbers on $\overline{\mathcal M}_{g,n}$ and their generating functions.
+This part introduces the intersection-theoretic problem that motivated Witten, and solves it using the combinatorial machinery and a surprising connection to physics. We will start with tautological classe, and then define intersection numbers on $\overline{\mathcal M}_{g,n}$ and their generating functions.
 
 Witten's Conjeture states that this generating function satisfies a series of partial differential equations, i.e. KdV hierarchy. Kontsevich's formula express this generating function in terms of ribbon graphs, which are also expressed by a matrix model. Kontsevich's proof eventually boils down to showing the integrable hierarchy for this matrix model.
 

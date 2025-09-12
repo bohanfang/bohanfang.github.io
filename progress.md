@@ -24,7 +24,7 @@ Reference: [FM], pages 263-269.
 
 We discussed the *algebraic topology* of $\mathrm{Teich}(S_g)$, by identifying it with $\mathrm{DF}(\pi_1(S_g),PSL(2,\mathbb R))/PGL(2,\mathbb R)$.
 
-Then we discussed the differentiable structure on $\mathrm{Teich}(S^3_0)$ (pairs of pants), by considering the lengths of their boundaries ($3$ boundary components), and stating it is diffeomorphic to $\mathbb R^3_+$.
+Then we show that $\mathrm{Teich}(S_0^3)\cong\mathbb R^3_+$, by considering the lengths of the three boundaries.
 
 Any closed surface can be decomposed into pairs of pants. We defined twisting parameters using *seams*. 
 
