@@ -30,6 +30,14 @@ Any closed surface can be decomposed into pairs of pants. We defined twisting pa
 
 Reference: [FM], pages 269-282.
 
+### Sep 15
+
+We discussed Fenchel-Nielson coordinates for Teichmuller space, and in particular, showed that $\mathrm{Teich}(S_g)\cong \mathbb R^{3g-3}_+\times \mathbb R^{3g-3}$.
+
+Teichmuller space can be regarded as the space of *marked* hyperbolic surfaces, or as the space of *marked* complex structures. We introduced quasi-conformal maps, and stated Teichmuller's result on the Teichmuller metric using quasi-conformal maps.
+
+Reference: [FM], pages 282-287, 294-300.
+
 ---
 
 - [FM] Farb, B., & Margalit, D. (2012). A Primer on Mapping Class Groups. Princeton University Press.
