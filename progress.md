@@ -38,6 +38,12 @@ Teichmuller space can be regarded as the space of *marked* hyperbolic surfaces, 
 
 Reference: [FM], pages 282-287, 294-300.
 
+### Sep 22
+
+We discussed *measured foliations* and *quadratic differentials* $\mathrm{QD}(X)$ on a Riemann surface, possibly bordered and punctured. These two concepts are closed related and essentially equivalent. We defined Teichmuller mappings based on the definition of quadratic differentials. We also computed $\mathrm{dim}_{\mathbb C} \mathrm{QD}(X)=3g-3$. 
+
+Reference: [FM], pages 300-305, 309-312.
+
 ---
 
 - [FM] Farb, B., & Margalit, D. (2012). A Primer on Mapping Class Groups. Princeton University Press.
