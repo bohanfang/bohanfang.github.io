@@ -44,6 +44,12 @@ We discussed *measured foliations* and *quadratic differentials* $\mathrm{QD}(X)
 
 Reference: [FM], pages 300-305, 309-312.
 
+## Sep 24
+
+As an example, we studied the Swiss Cross as a construction of a genus $2$ Riemann surface together with a quadratic differential. We stated the Teichmuller existence and uniquess theorem, and explained the diffeomorphism map between $\mathrm{QD}_1(X)$ and $\mathrm{Teich}(S)$. The Teichmuller metric is a complete metric defined by the dilatation of the Teichmuller map relating two conformal structures. 
+
+Reference: [FM], pages 313-315, 320-323, 330-332, 337-341.
+
 ---
 
 - [FM] Farb, B., & Margalit, D. (2012). A Primer on Mapping Class Groups. Princeton University Press.
