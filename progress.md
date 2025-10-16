@@ -50,6 +50,12 @@ As an example, we studied the Swiss Cross as a construction of a genus $2$ Riema
 
 Reference: [FM], pages 313-315, 320-323, 330-332, 337-341.
 
+## Oct 15
+
+We introducted *mapping class groups*, and discussed several examples (disk, annulus, torus with zero or $1$ marked points, $S_{0,3}$ and $S_{0,4}$.) We introduced the concept of the moduli space of (smooth) conformal/hyperbolic structures, and discussed the example of $\mathcal M(T^2)$.
+
+Reference: [FM], Chapter 2, pages 342-349.
+
 ---
 
 - [FM] Farb, B., & Margalit, D. (2012). A Primer on Mapping Class Groups. Princeton University Press.
