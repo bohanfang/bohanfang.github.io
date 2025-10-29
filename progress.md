@@ -56,23 +56,44 @@ We introducted *mapping class groups*, and discussed several examples (disk, ann
 
 Reference: [FM], Chapter 2, pages 342-349.
 
-# Oct 19
+## Oct 19
 
 We discussed Beltrami differentials and the Betlrami equation. In particular, by solving the Beltrami equation and restricted to *harmonic* Beltrami differentials, we get the tangent space of the Teichmuller space. We further discussed the *complex* structure on $\mathcal T_{g,n}$.
 
 The quadratic differential is naturally identified with the *cotangent space* os the Teichmuller space. We discussed Weil-Pertersson metric as a hermitial metric given by the $L^2$ norm on Beltrami differentials. The Teichmuller metric is given by $L^\infty$-norm, or equivalently the $L^1$-norm on quadratic differentials discussed earlier.
 
-# Oct 22
+References: [Hu] Ch 4 and 6, [IT] Ch 6. We did a very superficial survey to the deep analysis in this topic.
+
+## Oct 22
 
 The moduli space $\mathcal M_{g,n}=\mathcal T_{g,n}/\mathrm{PMod}_{g,n}$ is a complex orbifold from the properly discontinuous action.
 
-We discussed the compactification of the moduli space: first we constructed a partial completion $\hat{\mathcal T}_{g,n}$ of $\mathcal T_{g,n}$ by allowing degeneration into a node, together with an extension of the action of the mapping class group. The Deligne-Mumford compactification $\overline{\mathcal M}_{g,n}$ is then defined by $\hat{\mathcal T}_{g,n}/\mathrm{PMod}_{g,n}$.
+We discussed the compactification of the moduli space: first we constructed a partial completion $\hat{\mathcal T}_{g,n}$ by allowing degeneration into a node, together with an extension of the action of the mapping class group. The Deligne-Mumford compactification $\overline{\mathcal M}_{g,n}$ is then defined by $\hat{\mathcal T}_{g,n}/\mathrm{PMod}_{g,n}$.
 
-The construction is a priori not a compact space, or a orbifold. The compactness argument follows *Mumford's compactness criteria*, while the the orbifold structure at the boundary strata is given locally by the $xy=\epsilon$ near $\epsilon=0$: the boundary stratum is a normal crossing divisor. 
+The construction is a priori not a compact space, or an orbifold. The compactness argument follows *Mumford's compactness criteria*, while the the orbifold structure at the boundary strata is given locally by the $xy=\epsilon$ near $\epsilon=0$: the boundary stratum is a normal crossing divisor. 
 
-# Oct 28
+
+
+
+## Oct 28
+
+We reviewed some basic notion of orbifolds, and discussed the universal property of moduli spaces. As an example, $\mathcal M_{1,1}$ has an *orbifold* universal curve of (smooth) genus $1$ curves with one marked points, but as a scheme (or topological space) the moduli space $M_{1,1}$ is too coarse.
+
+The moduli space $\overline{\mathcal M}_{g,n}$ as an *orbifold* has a universal curve $\overline{\mathcal C}_{g,n}$. We discussed the example of $\overline{\mathcal M}_{0,4}$ and its universal curve.
+
+The boundary of $\overline{\mathcal M}_{g,n}$ are stratified: they can be described by the dual graph of the topological type of the stable curves.  
+
+References: [Zv], pages 671-681
 
 
 ---
 
-- [FM] Farb, B., & Margalit, D. (2012). A Primer on Mapping Class Groups. Princeton University Press.
+- [FM] Farb, B., & Margalit, D. (2012), A Primer on Mapping Class Groups. Princeton University Press.
+
+- [HM] Harris, J., & Morrison, I., Moduli of Curves. Springer
+
+- [Hu] Hubbard, J. H., Teichmüller theory and applications to geometry, topology, and dynamics. Vol. 1.
+
+- [IT] Imayoshi, Y., Taniguchi, M., An  introduction to Teichmuller space
+
+- [Zv] Zvonkine, D., An introduction to moduli spaces of curves and their intersection theory (EMS published book Chapter 11, in Handbook of Teichmuller Theory vol III).
