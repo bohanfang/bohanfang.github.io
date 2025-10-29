@@ -64,6 +64,8 @@ The quadratic differential is naturally identified with the *cotangent space* os
 
 # Oct 22
 
+The moduli space $\mathcal M_{g,n}=\mathcal T_{g,n}/\mathrm{PMod}_{g,n}$ is a complex orbifold from the properly discontinuous action.
+
 We discussed the compactification of the moduli space.
 
 # Oct 28
