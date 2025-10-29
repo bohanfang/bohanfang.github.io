@@ -62,7 +62,7 @@ We discussed Beltrami differentials and the Betlrami equation. In particular, by
 
 The quadratic differential is naturally identified with the *cotangent space* os the Teichmuller space. We discussed Weil-Pertersson metric as a hermitial metric given by the $L^2$ norm on Beltrami differentials. The Teichmuller metric is given by $L^\infty$-norm, or equivalently the $L^1$-norm on quadratic differentials discussed earlier.
 
-References: [Hu] Ch 4 and 6, [IT] Ch 6. We did a very superficial survey to the deep analysis in this topic.
+References: [Hu] Ch 4 and 6, [IT] Ch 6. We did a very superficial survey on the deep analysis in this topic.
 
 ### Oct 22
 
@@ -70,9 +70,11 @@ The moduli space $\mathcal M_{g,n}=\mathcal T_{g,n}/\mathrm{PMod}_{g,n}$ is a co
 
 We discussed the compactification of the moduli space: first we constructed a partial completion $\hat{\mathcal T}_{g,n}$ by allowing degeneration into a node, together with an extension of the action of the mapping class group. 
 
-The Deligne-Mumford compactification $\overline{\mathcal M}_{g,n}$ is then defined by $\hat{\mathcal T}_{g,n}/\mathrm{PMod}_{g,n}$.
+The Deligne-Mumford compactification $\overline{\mathcal M}_{g,n}=\hat{\mathcal T}_{g,n}/\mathrm{PMod}_{g,n}$.
 
 The construction is a priori not a compact space, or an orbifold. The compactness argument follows *Mumford's compactness theorem*, while the the orbifold structure at the boundary strata is given locally by the $xy=\epsilon$ near $\epsilon=0$: the boundary stratum is a normal crossing divisor. 
+
+References: Orbifold structure on $\overline{\mathcal M}_{g,n}$ can be found in [HV] (a very modern treatment). The compactness discussion is in [FM], Section 12.4.
 
 ### Oct 28
 
@@ -92,6 +94,9 @@ References: [Zv], pages 671-681
 - [FM] Farb, B., & Margalit, D. (2012), A Primer on Mapping Class Groups. Princeton University Press.
 
 - [HM] Harris, J., & Morrison, I., Moduli of Curves. Springer
+
+
+- [HV] Hinich, V., & Vaintrob, A., Augmented Teichmuller spaces and Orbifolds. Selecta Math. (N.S.)
 
 - [Hu] Hubbard, J. H., Teichmüller theory and applications to geometry, topology, and dynamics. Vol. 1.
 
