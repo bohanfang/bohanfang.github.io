@@ -44,19 +44,19 @@ We discussed *measured foliations* and *quadratic differentials* $\mathrm{QD}(X)
 
 Reference: [FM], pages 300-305, 309-312.
 
-## Sep 24
+### Sep 24
 
 As an example, we studied the Swiss Cross as a construction of a genus $2$ Riemann surface together with a quadratic differential. We stated the Teichmuller existence and uniquess theorem, and explained the diffeomorphism map between $\mathrm{QD}_1(X)$ and $\mathrm{Teich}(S)$. The Teichmuller metric is a complete metric defined by the dilatation of the Teichmuller map relating two conformal structures. 
 
 Reference: [FM], pages 313-315, 320-323, 330-332, 337-341.
 
-## Oct 15
+### Oct 15
 
 We introducted *mapping class groups*, and discussed several examples (disk, annulus, torus with zero or $1$ marked points, $S_{0,3}$ and $S_{0,4}$.) We introduced the concept of the moduli space of (smooth) conformal/hyperbolic structures, and discussed the example of $\mathcal M(T^2)$.
 
 Reference: [FM], Chapter 2, pages 342-349.
 
-## Oct 19
+### Oct 19
 
 We discussed Beltrami differentials and the Betlrami equation. In particular, by solving the Beltrami equation and restricted to *harmonic* Beltrami differentials, we get the tangent space of the Teichmuller space. We further discussed the *complex* structure on $\mathcal T_{g,n}$.
 
@@ -64,22 +64,23 @@ The quadratic differential is naturally identified with the *cotangent space* os
 
 References: [Hu] Ch 4 and 6, [IT] Ch 6. We did a very superficial survey to the deep analysis in this topic.
 
-## Oct 22
+### Oct 22
 
 The moduli space $\mathcal M_{g,n}=\mathcal T_{g,n}/\mathrm{PMod}_{g,n}$ is a complex orbifold from the properly discontinuous action.
 
-We discussed the compactification of the moduli space: first we constructed a partial completion $\hat{\mathcal T}_{g,n}$ by allowing degeneration into a node, together with an extension of the action of the mapping class group. The Deligne-Mumford compactification $\overline{\mathcal M}_{g,n}$ is then defined by $\hat{\mathcal T}_{g,n}/\mathrm{PMod}_{g,n}$.
+We discussed the compactification of the moduli space: first we constructed a partial completion $\hat{\mathcal T}_{g,n}$ by allowing degeneration into a node, together with an extension of the action of the mapping class group. 
 
-The construction is a priori not a compact space, or an orbifold. The compactness argument follows *Mumford's compactness criteria*, while the the orbifold structure at the boundary strata is given locally by the $xy=\epsilon$ near $\epsilon=0$: the boundary stratum is a normal crossing divisor. 
+The Deligne-Mumford compactification $\overline{\mathcal M}_{g,n}$ is then defined by $\hat{\mathcal T}_{g,n}/\mathrm{PMod}_{g,n}$.
 
+The construction is a priori not a compact space, or an orbifold. The compactness argument follows *Mumford's compactness theorem*, while the the orbifold structure at the boundary strata is given locally by the $xy=\epsilon$ near $\epsilon=0$: the boundary stratum is a normal crossing divisor. 
 
-
-
-## Oct 28
+### Oct 28
 
 We reviewed some basic notion of orbifolds, and discussed the universal property of moduli spaces. As an example, $\mathcal M_{1,1}$ has an *orbifold* universal curve of (smooth) genus $1$ curves with one marked points, but as a scheme (or topological space) the moduli space $M_{1,1}$ is too coarse.
 
-The moduli space $\overline{\mathcal M}_{g,n}$ as an *orbifold* has a universal curve $\overline{\mathcal C}_{g,n}$. We discussed the example of $\overline{\mathcal M}_{0,4}$ and its universal curve.
+The moduli space $\overline{\mathcal M}_{g,n}$ as an *orbifold* has a universal curve. 
+
+We discussed the example of $\overline{\mathcal M}_{0,4}$ and its universal curve.
 
 The boundary of $\overline{\mathcal M}_{g,n}$ are stratified: they can be described by the dual graph of the topological type of the stable curves.  
 
