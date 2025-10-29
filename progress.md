@@ -60,11 +60,14 @@ Reference: [FM], Chapter 2, pages 342-349.
 
 We discussed Beltrami differentials and the Betlrami equation. In particular, by solving the Beltrami equation and restricted to *harmonic* Beltrami differentials, we get the tangent space of the Teichmuller space. We further discussed the *complex* structure on $\mathcal T_{g,n}$.
 
-The quadratic differential is naturally identified with the *cotangent space* os the Teichmuller space. 
+The quadratic differential is naturally identified with the *cotangent space* os the Teichmuller space. We discussed Weil-Pertersson metric as a hermitial metric given by the $L^2$ norm on Beltrami differentials. The Teichmuller metric is given by $L^\infty$-norm, or equivalent the $L^1$-norm on quadratic differentials discussed earlier.
 
 # Oct 22
 
+We discussed the compactification of the moduli space.
+
 # Oct 28
+
 
 ---
 
