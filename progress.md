@@ -70,7 +70,7 @@ The moduli space $\mathcal M_{g,n}=\mathcal T_{g,n}/\mathrm{PMod}_{g,n}$ is a co
 
 We discussed the compactification of the moduli space: first we constructed a partial completion $\hat{\mathcal T}_{g,n}$ by allowing degeneration into a node, together with an extension of the action of the mapping class group. 
 
-The Deligne-Mumford compactification $\overline{\mathcal M}_{g,n}=\hat{\mathcal T}_{g,n}/\mathrm{PMod}_{g,n}$.
+The Deligne-Mumford compactification is given by the quotient $\overline{\mathcal M}_{g,n}=\hat{\mathcal T}_{g,n}/\mathrm{PMod}_{g,n}$.
 
 The construction is a priori not a compact space, or an orbifold. The compactness argument follows *Mumford's compactness theorem*, while the the orbifold structure at the boundary strata is given locally by the $xy=\epsilon$ near $\epsilon=0$: the boundary stratum is a normal crossing divisor. 
 
@@ -86,7 +86,7 @@ We discussed the example of $\overline{\mathcal M}_{0,4}$ and its universal curv
 
 The boundary of $\overline{\mathcal M}_{g,n}$ are stratified: they can be described by the dual graph of the topological type of the stable curves.  
 
-References: [Zv], pages 671-681
+References: [Zv], pages 671-681.
 
 
 ---
