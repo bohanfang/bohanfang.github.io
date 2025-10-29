@@ -56,6 +56,16 @@ We introducted *mapping class groups*, and discussed several examples (disk, ann
 
 Reference: [FM], Chapter 2, pages 342-349.
 
+# Oct 19
+
+We discussed Beltrami differentials and the Betlrami equation. In particular, by solving the Beltrami equation and restricted to *harmonic* Beltrami differentials, we get the tangent space of the Teichmuller space. We further discussed the *complex* structure on $\mathcal T_{g,n}$.
+
+The quadratic differential is naturally identified with the *cotangent space* os the Teichmuller space. 
+
+# Oct 22
+
+# Oct 28
+
 ---
 
 - [FM] Farb, B., & Margalit, D. (2012). A Primer on Mapping Class Groups. Princeton University Press.
