@@ -60,13 +60,15 @@ Reference: [FM], Chapter 2, pages 342-349.
 
 We discussed Beltrami differentials and the Betlrami equation. In particular, by solving the Beltrami equation and restricted to *harmonic* Beltrami differentials, we get the tangent space of the Teichmuller space. We further discussed the *complex* structure on $\mathcal T_{g,n}$.
 
-The quadratic differential is naturally identified with the *cotangent space* os the Teichmuller space. We discussed Weil-Pertersson metric as a hermitial metric given by the $L^2$ norm on Beltrami differentials. The Teichmuller metric is given by $L^\infty$-norm, or equivalent the $L^1$-norm on quadratic differentials discussed earlier.
+The quadratic differential is naturally identified with the *cotangent space* os the Teichmuller space. We discussed Weil-Pertersson metric as a hermitial metric given by the $L^2$ norm on Beltrami differentials. The Teichmuller metric is given by $L^\infty$-norm, or equivalently the $L^1$-norm on quadratic differentials discussed earlier.
 
 # Oct 22
 
 The moduli space $\mathcal M_{g,n}=\mathcal T_{g,n}/\mathrm{PMod}_{g,n}$ is a complex orbifold from the properly discontinuous action.
 
-We discussed the compactification of the moduli space.
+We discussed the compactification of the moduli space: first we constructed a partial completion $\hat{\mathcal T}_{g,n}$ of $\mathcal T_{g,n}$ by allowing degeneration into a node, together with an extension of the action of the mapping class group. The Deligne-Mumford compactification $\overline{\mathcal M}_{g,n}$ is then defined by $\hat{\mathcal T}_{g,n}/\mathrm{PMod}_{g,n}$.
+
+The construction is a priori not a compact space, or a orbifold. The compactness argument follows *Mumford's compactness criteria*, while the the orbifold structure at the boundary strata is given locally by the $xy=\epsilon$ near $\epsilon=0$: the boundary stratum is a normal crossing divisor. 
 
 # Oct 28
 
