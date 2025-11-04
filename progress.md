@@ -88,6 +88,12 @@ The boundary of $\overline{\mathcal M}_{g,n}$ are stratified: they can be descri
 
 References: [Zv], pages 671-681.
 
+### Nov 3
+
+The universal curve $\overline{\mathcal C}_{g,n}$ is isomorphic to $\overline{\mathcal M}_{g,n+1}$. We introduced the concept of tautological ring, relative cotangent bundle on the universal curve, Hodge bundle and tautological line bundles.
+
+References: [Zv], pages 673-674, 682-686.
+
 
 ---
 
