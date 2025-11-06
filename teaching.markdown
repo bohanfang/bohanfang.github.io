@@ -7,4 +7,7 @@ permalink: /teaching.html
 
 ## Fall 2025 (current):
 
-I'm teaching [*Topics in Modern Mathematical Physics II*](moduli_curve.md) (undergraduate course name: Topics in Modern Mathematical Physics).
+I'm teaching [*Topics in Modern Mathematical Physics II*](moduli_curve.md) (undergraduate course name: Topics in Modern 
+Mathematical Physics).
+
+### NO CLASS THIS WEDNESDAY (November 5, 2025). We will resume class meetings on November 12, 2025. 
