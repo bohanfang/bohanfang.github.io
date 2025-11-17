@@ -94,6 +94,14 @@ The universal curve $\overline{\mathcal C}_{g,n}$ is isomorphic to $\overline{\m
 
 References: [Zv], pages 673-674, 682-686.
 
+### Nov 12
+
+We reviewed the basics of intersection theory on orbifolds, and discussed certain intersection numbers of $\psi$-classes on $\overline{\mathcal M}_{g,n}$. In particular, we have shown
+$$
+\int_{\overline{\mathcal M}_{1,1}} \psi_1=\frac{1}{24}.
+$$
+
+References: [Zv], pages 686-690.
 
 ---
 
