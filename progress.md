@@ -103,6 +103,15 @@ $$
 
 References: [Zv], pages 686-690.
 
+### Nov 17
+
+### Nov 19
+
+### Dec 1
+
+### Dec 3
+
+
 ---
 
 - [FM] Farb, B., & Margalit, D. (2012), A Primer on Mapping Class Groups. Princeton University Press.
