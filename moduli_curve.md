@@ -10,9 +10,11 @@ permalink: /teaching2025fall.html
 
 [Course Progress](progress.md) 
 
+[Final take home](final-take-home.pdf) DUE 5pm, January 21st.
+
 #### General Description
 
-This  course provides a tour among theory of the moduli spaces of curves, matrix models and integrable systems. Later (hopefully) we will proceed to Chekov-Eynard-Orantin's topological recursion, an elegant theory at the interplay of these topics.
+This course provides a tour among theory of the moduli spaces of curves, matrix models and integrable systems. Later (hopefully) we will proceed to Chekov-Eynard-Orantin's topological recursion, an elegant theory at the interplay of these topics.
 
 We will begin with the analytic construction of the Deligne-Mumford compactified moduli space from the perspective of Teichmüller theory. We will then develop the combinatorial theory of ribbon graphs, which provides a cellular decomposition of these spaces. These materials lead to a detailed exposition of Maxim Kontsevich's celebrated proof of Edward Witten's conjecture, which shows that a generating function for intersection numbers on the moduli space is a $\tau$-function for the KdV hierarchy, by identifying it with the partition function of a matrix model.
 
