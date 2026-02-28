@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Course on Variation of Hodge Structures, Genus 0 Mirror Symmetry, Frobenius Manifolds, CohFT, and Givental-Teleman Quantization
+title: Course on variation of Hodge structures, genus 0 mirror symmetry, and beyond
 permalink: /topics_modern_math_phys_2026_spring.html
 ---
 
@@ -15,7 +15,7 @@ permalink: /topics_modern_math_phys_2026_spring.html
 
 ### Syllabus
 
-This course is divided into three main parts. It begins with an introduction to Variation of Hodge Structures (VHS) aimed at students with an interest in complex algebraic geometry, before exploring enumerative applications via mirror symmetry. Later we will move to Cohomological Field Theories (CohFTs) and Givental-Teleman's quantization.
+This course begins with an introduction to Variation of Hodge Structures (VHS) in complex algebraic geometry, then explores enumerative applications via mirror symmetry. Later we will move to Cohomological Field Theories (CohFTs) and Givental-Teleman's quantization.
 
 #### Part 1: Variation of Hodge Structures
 This part establishes the geometric foundation, emphasizing the deformation of complex structures, period integrals, and the Gauss-Manin connection from a complex analytic and algebraic geometry perspective.
