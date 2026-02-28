@@ -26,6 +26,6 @@ Applying the tools from Part 1 to Calabi-Yau threefolds, specifically focusing o
 A modern generalization of the structures seen in mirror symmetry to a broader algebraic framework.
 *   **Topics:** Moduli space of curves ($\overline{\mathcal{M}}_{g,n}$), definition and examples of Cohomological Field Theories (CohFTs), topological field theories (2D TQFTs), Frobenius manifolds, the Witten-Kontsevich theorem (briefly), and Givental’s quantization formalism (action of the symplectic loop group on CohFTs).
 *   **Primary References:**
-    *   D. Zvonkine, *An Introduction to Moduli Spaces of Curves and their Intersection Theory* (Lecture notes).
+    *   R. Pandharipande, *Cohomological field theory calculations* (ICM 2018).
     *   Y. P. Lee, *Notes on Axiomatic Gromov-Witten Theory and Formalism*.
     *   Additional papers and notes on Givental-Teleman classification will be provided as needed.
