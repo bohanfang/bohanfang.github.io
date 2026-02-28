@@ -4,18 +4,16 @@
 title: Course on Variation of Hodge Structures, Genus 0 Mirror Symmetry, Frobenius Manifolds, CohFT, and Givental-Teleman Quantization
 permalink: /topics_modern_math_phys_2026_spring.html
 ---
-###
 
-* Course materials will be poste on https://course.pku.edu.cn
+### Practical info
+
+* Course materials will be posted on https://course.pku.edu.cn
 
 * Meetings: Monday 10:10am-12:00pm (weekly), 1:00pm-2:50pm (bi-weekly, odd-numbered weeks), 三教501
 
-* Evualuation: Final take-home exam
-
+* Evaluation: Final take-home exam
 
 ### Syllabus
-
-
 
 This course is divided into three main parts. It begins with an introduction to Variation of Hodge Structures (VHS) aimed at students with an interest in complex algebraic geometry, before exploring enumerative applications via mirror symmetry. Later we will move to Cohomological Field Theories (CohFTs) and Givental-Teleman's quantization.
 
