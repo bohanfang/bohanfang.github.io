@@ -28,5 +28,5 @@ A modern generalization of the structures seen in mirror symmetry to a broader a
 *   **Primary References:**
     *   R. Pandharipande, *Cohomological field theory calculations* (ICM 2018).
     *   Y. P. Lee, *Notes on Axiomatic Gromov-Witten Theory and Formalism*.
-    *   A. Givental, *Symplectic geometry of Frobenius structures* (2003).
+    *   A. Givental, *Semisimple Frobenius structures at higher genus*, IMRN (2001).
     *   C. Teleman, *The structure of 2D semi-simple field theories*, Inventiones Mathematicae (2012).
