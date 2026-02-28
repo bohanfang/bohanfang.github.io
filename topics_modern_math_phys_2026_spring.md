@@ -9,7 +9,7 @@ permalink: /topics_modern_math_phys_2026_spring.html
 
 * Course materials will be posted on https://course.pku.edu.cn
 
-* Meetings: Monday 10:10am-12:00pm (weekly), 1:00pm-2:50pm (bi-weekly, odd-numbered weeks), 三教501
+* Meetings: Monday 10:10am-12:00pm (weekly), Wednesday 1:00pm-2:50pm (bi-weekly, odd-numbered weeks), 三教501
 
 * Evaluation: Final take-home exam
 
