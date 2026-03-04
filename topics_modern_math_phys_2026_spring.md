@@ -5,13 +5,17 @@ title: Course on variation of Hodge structures, genus 0 mirror symmetry, and bey
 permalink: /topics_modern_math_phys_2026_spring.html
 ---
 
-### Practical info
+### Practical infos
+
+
+* **Meetings**: Monday 10:10am-12:00pm (weekly), Wednesday 1:00pm-2:50pm (bi-weekly, odd-numbered weeks), 三教501
+
+* **Evaluation**: Final take-home exam
+
+* Course [progress](progress.md). 
 
 * Course materials will be posted on https://course.pku.edu.cn
 
-* Meetings: Monday 10:10am-12:00pm (weekly), Wednesday 1:00pm-2:50pm (bi-weekly, odd-numbered weeks), 三教501
-
-* Evaluation: Final take-home exam
 
 ### Syllabus
 
