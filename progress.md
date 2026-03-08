@@ -18,6 +18,5 @@ This is a not very detailed record on what happened in each course meeting. Ther
 
 * **Mar 04**: We introduced Hodge structures, polarized Hodge structures, and variation of polarized Hodge structures [TTAG, Ch I].
 
----
 [TTAG]: Topics in Transcendental Algebraic Geometry, P. Griffiths.
 [MSAG]: Mirror Symmetry and Algebraic Geometry, Cox-Katz.
