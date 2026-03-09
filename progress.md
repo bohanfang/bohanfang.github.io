@@ -18,5 +18,8 @@ This is a not very detailed record on what happened in each course meeting. Ther
 
 * **Mar 04**: We introduced Hodge structures, polarized Hodge structures, and variation of polarized Hodge structures [TTAG, Ch I].
 
-[TTAG]: Topics in Transcendental Algebraic Geometry, P. Griffiths.
-[MSAG]: Mirror Symmetry and Algebraic Geometry, Cox-Katz.
+* **Mar 09**: We reviewed variation of Hodge structures, and discussed an example of elliptic curves for the monodromy computation [TTAG, Ch I.].
+
+### References
+* **[TTAG]**: Topics in Transcendental Algebraic Geometry, P. Griffiths.
+* **[MSAG]**: Mirror Symmetry and Algebraic Geometry, Cox-Katz.
