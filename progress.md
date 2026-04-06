@@ -26,6 +26,9 @@ This is a not very detailed record on what happened in each course meeting. Ther
 
 * **Mar 23**: Ahlfors lemma and the curvature, monodromy of VHS over a punctured disk [TTAG Ch II].  An example of genus 2 curves over a punctured disk; introduction to mixed Hodge structures [PMPD Ch I].
 
+* **Mar 30**: Mixed Hodge structures, limiting Hodge structure: definition and why we should now use the naive one. [TTAG Ch IV]
+
+* **Apr 1**: Review of the mixed Hodge structures. Nilpotent orbit theorem. Limiting Hodge structure over a punctured disk is a polarized mixed Hodge structure. [TTAG Ch V]
 
 ### References
 * **[TTAG]**: Topics in Transcendental Algebraic Geometry, P. Griffiths.
