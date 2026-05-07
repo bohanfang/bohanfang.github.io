@@ -30,7 +30,19 @@ This is a not very detailed record on what happened in each course meeting. Ther
 
 * **Apr 1**: Review of the mixed Hodge structures. Nilpotent orbit theorem. Limiting Hodge structure over a punctured disk is a polarized mixed Hodge structure. [TTAG Ch V]
 
+* **Apr 13**: LMHS, Picard-Fuchs equation, and their relation. [MSAG 5.1]
+
+* **Apr 15**: Hodge-Tate structure, maximally unipotent monodromy. [MSAG 5.2] 
+
+* **Apr 20**: Griffiths-Dwork method. [MSAG 5.3.1,5.4]
+
+* **Apr 27**: Yukawa's coupling. [MASG 5.6.1-5.6.2]
+
+* **Apr 29**: Normalized Yukawa's coupling, flat basis for the mirror quintic, mirror map. [MSAG 5.6.3-5.6.4]
+
 ### References
 * **[TTAG]**: Topics in Transcendental Algebraic Geometry, P. Griffiths.
 * **[MSAG]**: Mirror Symmetry and Algebraic Geometry, Cox-Katz.
 * **[PMPD]**: Period Mappings and Period Domains, Carlson-Muller-Stach-Peters.
+
+### Here are some sage codes for computing Picard-Fuchs equations in Section 5.3. 

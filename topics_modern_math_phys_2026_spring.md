@@ -5,8 +5,11 @@ title: Course on variation of Hodge structures, genus 0 mirror symmetry, and bey
 permalink: /topics_modern_math_phys_2026_spring.html
 ---
 
-### Practical infos
+###
 
+On 5/9, there will be no ordinary course lectures. I will come to the classroom, and show the sage code for computing PF equations if you are interested.
+
+### Practical infos
 
 * **Meetings**: Monday 10:10am-12:00pm (weekly), Wednesday 1:00pm-2:50pm (bi-weekly, odd-numbered weeks), 三教501
 
@@ -43,3 +46,14 @@ A modern generalization of the structures seen in mirror symmetry to a broader a
     *   Y. P. Lee, *Notes on Axiomatic Gromov-Witten Theory and Formalism*.
     *   A. Givental, *Semisimple Frobenius structures at higher genus*, IMRN (2001).
     *   C. Teleman, *The structure of 2D semi-simple field theories*, Inventiones Mathematicae (2012).
+
+### Some stuff
+
+
+#### Sage code for Section 5.4
+
+[PF equations sage code](https://github.com/bohanfang/20260508-pf-equations-griffiths-dwork)
+
+- These are some sage codes for computing Picard-Fuchs equations in Section 5.4. It is a GPT Codex project with an `AGENTS.md`, and the Sage code computes PF equations for two examples in Section 5.4.
+
+- For the second example, it also computes the other equation not explicitly listed in the text.
