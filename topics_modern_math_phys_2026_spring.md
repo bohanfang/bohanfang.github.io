@@ -5,7 +5,7 @@ title: Course on variation of Hodge structures, genus 0 mirror symmetry, and bey
 permalink: /topics_modern_math_phys_2026_spring.html
 ---
 
-###
+### Announcement
 
 On 5/9, there will be no ordinary course lectures. I will come to the classroom, and show the sage code for computing PF equations if you are interested.
 
