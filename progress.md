@@ -45,4 +45,3 @@ This is a not very detailed record on what happened in each course meeting. Ther
 * **[MSAG]**: Mirror Symmetry and Algebraic Geometry, Cox-Katz.
 * **[PMPD]**: Period Mappings and Period Domains, Carlson-Muller-Stach-Peters.
 
-### Here are some sage codes for computing Picard-Fuchs equations in Section 5.3. 
