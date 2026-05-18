@@ -7,7 +7,7 @@ permalink: /topics_modern_math_phys_2026_spring.html
 
 ### Announcement
 
-On 5/9, there will be no ordinary course lectures. I will come to the classroom, and show the sage code for computing PF equations if you are interested.
+No course meetings 5/18 (Mon), 5/25 (Mon), and 5/27 (Wed). 
 
 ### Practical infos
 
