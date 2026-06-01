@@ -20,3 +20,10 @@ permalink: /
 - Research Area: Mathematical physics, algebraic and symplectic geometry
 
 - You can find more info about me in my [CV](/cv.pdf).
+
+
+## Summer workshop
+
+We are organizing a workshop at ShanghaiTech this summer, July 6 to July 10, 2026.
+
+[Quantum geometry: from invariants to categories, and back](https://mathmingong.github.io/quantum-geometry-shanghaitech/)
