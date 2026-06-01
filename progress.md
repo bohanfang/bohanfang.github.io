@@ -40,8 +40,16 @@ This is a not very detailed record on what happened in each course meeting. Ther
 
 * **Apr 29**: Normalized Yukawa's coupling, flat basis for the mirror quintic, mirror map. [MSAG 5.6.3-5.6.4]
 
+* **May 11**: Quick review of A-model GW. Genus 0 mirror symmetry for the quintic from the viewpoint of VHS.
+
+* **May 13**: Frobenius algebra and Frobenius manifold.
+
+* **Jun 1**: Review of Frobenius manifold, Dubrovin's connection, $\infty/2$-VHS structure. [BK]
+
 ### References
 * **[TTAG]**: Topics in Transcendental Algebraic Geometry, P. Griffiths.
 * **[MSAG]**: Mirror Symmetry and Algebraic Geometry, Cox-Katz.
 * **[PMPD]**: Period Mappings and Period Domains, Carlson-Muller-Stach-Peters.
+* **[BK]**: Frobenius Manifolds and Formality of Lie Algebras of Polyvector Fields,
+Barannikov-Kontsevich.
 

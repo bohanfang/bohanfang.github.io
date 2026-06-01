@@ -5,10 +5,6 @@ title: Course on variation of Hodge structures, genus 0 mirror symmetry, and bey
 permalink: /topics_modern_math_phys_2026_spring.html
 ---
 
-### Announcement
-
-No course meetings 5/18 (Mon), 5/25 (Mon), and 5/27 (Wed). 
-
 ### Practical infos
 
 * **Meetings**: Monday 10:10am-12:00pm (weekly), Wednesday 1:00pm-2:50pm (bi-weekly, odd-numbered weeks), 三教501
