@@ -5,7 +5,7 @@ title: Teaching
 permalink: /teaching.html
 ---
 
-## Spring 2026 (current):
+## Moduli of curves
 
-I'm teaching [*Topics in Modern Mathematical Physics*](topics_modern_math_phys_2026_spring.md) (undergraduate course name: Topics in Modern 
-Mathematical Physics).
+- **Location:** 二教 416
+- **Meetings:** Monday 3:10–5:00pm; Wednesday (even weeks) 10:10am–12:00pm
