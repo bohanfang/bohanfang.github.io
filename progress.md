@@ -7,7 +7,7 @@ permalink: /progress.html
 
 <style>
   #main {
-    font-size: 10%; /* Adjust this percentage as you like */
+    font-size: 100%; /* Adjust this percentage as you like */
   }
 </style>
 
