@@ -20,7 +20,7 @@ This is a not very detailed record on what happened in each course meeting. Ther
 
 * **Sep 16**: Intersection theory on orbifolds. [AI-generated notes](orbifold-integration-and-poincare-duality.pdf)
 
-* **Sep 21**: Deformation of complex structures, and the local orbifold chart used in the the construction of the moduli of smooth curves.
+* **Sep 21**: Deformation of complex structures, and the local orbifold chart used in the the construction of the moduli of smooth curves. [HM 3.B]
 
 ### References
   *   [HM] Harris-Morrison, *Moduli of Curves*
