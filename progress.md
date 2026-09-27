@@ -16,6 +16,12 @@ This is a not very detailed record on what happened in each course meeting. Ther
 
 * **Sep 07**: Moduli of smooth curves, universal property. [Zv Section 1.1-1.2]
 
+* **Sep 14**: Orbifolds, intersection theory on orbifolds, and the construction of the moduli of smooth curves. [Zv Section 1.3]
+
+* **Sep 16**: Intersection theory on orbifolds. [AI-generated notes](orbifold-integration-and-poincare-duality.pdf)
+
+* **Sep 21**: Deformation of complex structures, and the local orbifold chart used in the the construction of the moduli of smooth curves.
+
 ### References
   *   [HM] Harris-Morrison, *Moduli of Curves*
   *   [ACG] Arbarello-Cornalba-Griffiths, *Geometry of Algebraic Curves*, vol 2
