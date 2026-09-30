@@ -7,6 +7,8 @@ permalink: /moduli-curve-2026-fall.html
 
 ### Practical infos
 
+* **NO CLASS MEETING 09/30 (Wed)***
+
 * **Meetings**: Monday 3:10pm-5:00pm (weekly), Wednesday 10:10am-12:00pm (bi-weekly, even-numbered weeks), 二教416
 
 * **Evaluation**: Final take-home exam + one or two homework
