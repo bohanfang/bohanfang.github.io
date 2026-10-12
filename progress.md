@@ -22,6 +22,10 @@ This is a not very detailed record on what happened in each course meeting. Ther
 
 * **Sep 21**: Deformation of complex structures, and the local orbifold chart used in the the construction of the moduli of smooth curves. [HM 3.B]
 
+* **Sep 28**: Attaching and forgetful maps. Dual graph. Boundary stratum. [Zv Section 2.1] [AI-generated notes](clutching-maps-and-dual-graphs.pdf)
+
+* **Oct 12**: Tautological rings, Hodge bundle and tautological line bundles, comparison lemma. [Zv Section 2.1-2.2]
+
 ### References
   *   [HM] Harris-Morrison, *Moduli of Curves*
   *   [ACG] Arbarello-Cornalba-Griffiths, *Geometry of Algebraic Curves*, vol 2
