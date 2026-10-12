@@ -9,5 +9,3 @@ permalink: /teaching.html
 
 - **Location:** 二教 416
 - **Meetings:** Monday 3:10–5:00pm; Wednesday (even weeks) 10:10am–12:00pm
-
-- **NO CLASS MEETING 09/30 (Wed)***
