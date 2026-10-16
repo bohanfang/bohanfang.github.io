@@ -22,8 +22,6 @@ permalink: /
 - You can find more info about me in my [CV](/cv.pdf).
 
 
-## Summer workshop
+## A Lean project about HMS for smooth toric Fano varieties
 
-We are organizing a workshop at ShanghaiTech this summer, July 6 to July 10, 2026.
-
-[Quantum geometry: from invariants to categories, and back](https://mathmingong.github.io/quantum-geometry-shanghaitech/)
+- [fs-fltz-minimal](https://github.com/bohanfang/fs-fltz-minimal/): A Lean project on formalizing homological mirror symmetry for smooth toric Fano varieties.
