@@ -26,6 +26,10 @@ This is a not very detailed record on what happened in each course meeting. Ther
 
 * **Oct 12**: Tautological rings, Hodge bundle and tautological line bundles, comparison lemma. [Zv Section 2.1-2.2]
 
+* **Oct 17**: Proof of comparison lemma. [AI-generated notes](Zvonkine_Prop_2_17_2_18_lecture_notes.pdf)
+
+* **Oct 19**: Line bundles on the universal curve, kappa, psi and lambda classes, Grothendieck-Riemann-Roch. [Zv Section 2.3, 3.1] [A note on Prop 2.22](2026-10-19-proof-of-zvonkine-proposition-2-22-claude-short.pdf)
+
 ### References
   *   [HM] Harris-Morrison, *Moduli of Curves*
   *   [ACG] Arbarello-Cornalba-Griffiths, *Geometry of Algebraic Curves*, vol 2
