@@ -30,6 +30,12 @@ This is a not very detailed record on what happened in each course meeting. Ther
 
 * **Oct 19**: Line bundles on the universal curve, kappa, psi and lambda classes, Grothendieck-Riemann-Roch. [Zv Section 2.3, 3.1] [A note on Prop 2.22](2026-10-19-proof-of-zvonkine-proposition-2-22-claude-short.pdf)
 
+* **Oct 26**: Computation of GRR for the forgetful map. [Zv Section 3.2]
+
+* **Oct 28**: Writing lambda classes in terms of kappa, psi, and delta classes. Writing integrals of kappa classes in terms of psi and delta classes. [Zv Section 3.2, 3.3] [Some explanation about this week's lectures](2026-10-26.pdf)
+
+
+
 ### References
   *   [HM] Harris-Morrison, *Moduli of Curves*
   *   [ACG] Arbarello-Cornalba-Griffiths, *Geometry of Algebraic Curves*, vol 2
