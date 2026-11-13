@@ -34,6 +34,11 @@ This is a not very detailed record on what happened in each course meeting. Ther
 
 * **Oct 28**: Writing lambda classes in terms of kappa, psi, and delta classes. Writing integrals of kappa classes in terms of psi and delta classes. [Zv Section 3.2, 3.3] [Some explanation about this week's lectures](2026-10-26.pdf)
 
+* **Nov 2**: Virasoro's constraints, string and dilaton equations and Witten's conjecture. [Zv Section 4]
+
+* **Nov 9**: Topological field theory and cohomological field theory [Notes based on Zvonkine's lecture videos at Simons Center (2023 Summer)](2026-11-01-topft-cohft.pdf)
+
+* **Nov 11**: Explanation of Hurwitz numbers [some note](2026-11-10-hurwitz-clarifications.pdf), cohomological field theory and Hodge bundles. 
 
 
 ### References
