@@ -32,7 +32,7 @@ This is a not very detailed record on what happened in each course meeting. Ther
 
 * **Oct 26**: Computation of GRR for the forgetful map. [Zv Section 3.2]
 
-* **Oct 28**: Writing lambda classes in terms of kappa, psi, and delta classes. Writing integrals of kappa classes in terms of psi and delta classes. [Zv Section 3.2, 3.3] [Some explanation about this week's lectures](2026-10-26.pdf)
+* **Oct 28**: Writing lambda classes in terms of kappa, psi, and delta classes. Writing integrals of kappa classes in terms of psi and delta classes. [Zv Section 3.2, 3.3] [Some explanation about this week's lectures](2026-10-27.pdf)
 
 * **Nov 2**: Virasoro's constraints, string and dilaton equations and Witten's conjecture. [Zv Section 4]
 
